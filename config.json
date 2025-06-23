@@ -1,0 +1,25 @@
+{
+    "botName": "WhatsApp Bot",
+    "botNumber": "",
+    "ownerName": "Bot Owner",
+    "ownerNumber": "1234567890",
+    "prefix": ".",
+    "mode": "public",
+    "botImagePath": "./bot-image.jpg",
+    "autoReaction": {
+        "enabled": false,
+        "target": "all"
+    },
+    "antiLink": {
+        "enabled": false,
+        "action": "delete"
+    },
+    "welcome": {
+        "enabled": false,
+        "message": "Welcome to the group, @user!"
+    },
+    "goodbye": {
+        "enabled": false,
+        "message": "Goodbye, @user!"
+    }
+}
